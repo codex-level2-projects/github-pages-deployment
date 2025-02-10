@@ -4,5 +4,12 @@ Deploying a Project to GitHub Pages
 
 HTML File Content
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
+Cheat sheet deployed in browser
+
+![alt text](image-3.png)
+
+Breakpoint set and execution paused.
+
+![alt text](image-4.png)
